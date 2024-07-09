@@ -1,0 +1,39 @@
+.col {
+    background-color: rgba(255, 145, 0, 0.507);
+}
+
+.rojo {
+    background-color: red;
+}
+
+.verde {
+    background-color: green;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+.morado {
+    background-color: rgba(153, 3, 223, 0.767);
+}
+
+.naranja {
+    background-color: rgb(255, 136, 0);
+}
+
+.azul {
+    background-color: blue;
+}
+
+#tablero {
+    background-color: black;
+    border: 5px solid black;
+}
+
+.cuadro {
+    border: 1px solid rgb(3, 0, 0);
+    height: 25vh; 
+}
+
+ 
